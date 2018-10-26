@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+const REACT_API_KEY = 'AIzaSyCi9h5s0KXvqfwACDxkO0sjznsj5oQBTrI';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
